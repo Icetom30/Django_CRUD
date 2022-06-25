@@ -1,1 +1,1 @@
-# zuri-django_models
+# zuri-django_CRUD
